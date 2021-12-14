@@ -1,20 +1,21 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Research Interest
+#### I am interested in Probability Theory and Graph Theory.
 
+## Preprints \& Publications
 {% include base_path %}
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
+## Invited Presentations
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
