@@ -8,7 +8,7 @@ author_profile: true
 ## Research Interest
 I am interested in Probability Theory and Graph Theory.
 
-----
+***
 
 # <u>Preprints & Publications<u>
 {% include base_path %}
@@ -17,7 +17,7 @@ I am interested in Probability Theory and Graph Theory.
   {% include archive-single.html %}
 {% endfor %}
 
-----
+***
 # <u>Invited Presentations</u>
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
