@@ -6,6 +6,6 @@ date: 2021-11-11
 venue: 'Preprint with arXiv identifier: 2111.08777.'
 ---
 
-Click [here](zf-wei.github.io/files/Spectral.pdf) to download.
+Click [here](http://zf-wei.github.io/files/Spectral.pdf) to download.
 
 The arXiv page is [here](https://arxiv.org/abs/2111.08777).
