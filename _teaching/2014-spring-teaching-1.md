@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Math-M106: Mathematics of Decision and Beauty"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Associate Instructor"
+permalink: /teaching/2101
+venue: "Department of Mathematics, Indiana University, Spring 2021."
+date: 2021-01-01
+location: "Bloomington, IN"
 ---
 
 Here is the [Instructor Website](https://batesm.pages.iu.edu/M106AIWebsite/index.html), built by Matthew Bates, the course coordinator. 
