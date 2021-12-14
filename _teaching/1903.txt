@@ -1,0 +1,12 @@
+---
+title: "Math-M463: Intro to Probability Theory I"
+collection: teaching
+type: "Grader"
+permalink: /teaching/1903
+venue: "Department of Mathematics, Indiana University, Fall 2019."
+date: 2019-09-01
+location: "Bloomington, IN"
+---
+
+I worked with [Prof. Marlies Gerber](https://math.indiana.edu/about/faculty/gerber-marlies.html) as a grader.
+

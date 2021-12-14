@@ -1,0 +1,12 @@
+---
+title: "Math-M211: Calculus I"
+collection: teaching
+type: "Recitation Leader"
+permalink: /teaching/2103
+venue: "Department of Mathematics, Indiana University, Fall 2021."
+date: 2021-09-01
+location: "Bloomington, IN"
+---
+
+I led the recitations supervised by [Dr. Erin Caulfield](https://math.indiana.edu/about/faculty/caulfield-erin.html) and [Prof. Alberto Torchinsky](https://math.indiana.edu/about/emeriti/torchinsky-alberto.html).
+

@@ -1,0 +1,16 @@
+---
+title: "Math-M106: Mathematics of Decision and Beauty"
+collection: teaching
+type: "Associate Instructor"
+permalink: /teaching/1902
+venue: "Department of Mathematics, Indiana University, Summer 2019."
+date: 2019-05-01
+location: "Bloomington, IN"
+---
+
+Together with [Daniel Condon](http://www.danielcondon.com/), I co-taught M106 in the second 8-week session of 2019 Summer semester. 
+
+This course covers a number of topics presented independently, including music theory, voting theory, graph theory, game theory, 2-dimensional projection of 3-dimensional objects, and group theory in the context of symmetries of figures. It satisfies most majors' general education math requirement, and is mostly taken by students who have weak algebra backgrounds, and humanities students with a specific interest in one of the course topics.
+
+If interested, you may email me and request the course lecture notes. 
+

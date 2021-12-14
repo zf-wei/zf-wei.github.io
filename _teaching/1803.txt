@@ -1,0 +1,12 @@
+---
+title: "Math-M365: Intro to Probability and Statistics"
+collection: teaching
+type: "Grader"
+permalink: /teaching/1803
+venue: "Department of Mathematics, Indiana University, Fall 2018."
+date: 2018-09-01
+location: "Bloomington, IN"
+---
+
+I worked with [Dr. Chris Johnson](http://ccjohnson.org/) as a grader.
+

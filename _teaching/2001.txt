@@ -1,0 +1,12 @@
+---
+title: "Math-M464: Intro to Probability Theory II"
+collection: teaching
+type: "Grader"
+permalink: /teaching/2001
+venue: "Department of Mathematics, Indiana University, Spring 2020."
+date: 2020-01-01
+location: "Bloomington, IN"
+---
+
+I worked with [Prof. Marlies Gerber](https://math.indiana.edu/about/faculty/gerber-marlies.html)  and [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/) as a grader.
+
