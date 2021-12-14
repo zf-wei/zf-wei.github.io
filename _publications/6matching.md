@@ -1,5 +1,5 @@
 ---
-title: "Number of Matchings of Low Order in (4,6)-Fullerene Graphs, pp. 707-724"
+title: "Number of Matchings of Low Order in (4,6)-Fullerene Graphs"
 collection: publications
 permalink: /publication/6matching
 excerpt: 'This paper is joint with Prof. Heping Zhang.'
