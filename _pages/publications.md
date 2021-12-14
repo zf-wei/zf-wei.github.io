@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Research Interest
-#### I am interested in Probability Theory and Graph Theory.
+I am interested in Probability Theory and Graph Theory.
 
-## Preprints \& Publications
+## Preprints & Publications
 {% include base_path %}
 
 {% for post in site.publications reversed %}
