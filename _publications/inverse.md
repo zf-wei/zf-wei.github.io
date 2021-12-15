@@ -9,5 +9,5 @@ This work is in fact my Master degree thesis in 2018 at Beijing Normal Universit
 
 Here is the [Journal Page](https://www.sciencedirect.com/science/article/abs/pii/S0022247X2100562X). An early version is posted [here on arXiv](https://arxiv.org/abs/2001.00134). 
 
-The thesis version is available at [Beijing Normal University library](http://www.lib.bnu.edu.cn/).
+The thesis version is available via [Beijing Normal University library](http://www.lib.bnu.edu.cn/). It could also be downloaded [here](http://zf-wei.github.io/files/bnuthesis.pdf).
 
