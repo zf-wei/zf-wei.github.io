@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a PhD Candidate in the Mathematics Department at Indiana University. My advisor is [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/).
+Greetings! I am a PhD Candidate in the [Mathematics Department at Indiana University](https://math.indiana.edu/). My advisor is [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/).
 
 Before coming to Bloomington, I got my MSc degree in 2018 at [Beijing Normal University](http://math.bnu.edu.cn/) under the supervision of [Prof. Mu-Fa Chen](http://math0.bnu.edu.cn/~chenmf/main_eng.htm). I went to [Lanzhou University](https://en.lzu.edu.cn/) for my [college](http://chc.lzu.edu.cn/), advised by [Prof. Heping Zhang](http://mathteacher.lzu.edu.cn/system/teacherprofileqtenglish/content.jsp?id=154).   
 
