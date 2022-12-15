@@ -7,4 +7,5 @@ date: 2022-12-15
 venue: 'Journal of Functional Analysis, 284(5), 2023, Article 109799.'
 ---
 
-Click [here](http://zf-wei.github.io/files/Spectral.pdf) to download. The arXiv page is [here](https://arxiv.org/abs/2111.08777).
+Here is the [Journal Page](https://doi.org/10.1016/j.jfa.2022.109799). The arXiv page is [here](https://arxiv.org/abs/2111.08777).
+It could also be downloaded [here](http://zf-wei.github.io/files/Spectral.pdf).
