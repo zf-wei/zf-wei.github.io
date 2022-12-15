@@ -10,6 +10,6 @@ location: "University of Wisconsin - Madison"
 
 This is the seminar page: [20th Northeast Probability Seminar](https://sites.google.com/view/gspc2022/). 
 
-Title: Bound Return Probabilities via Spectral Embedding Method.
+Title: Bound Return Probabilities via Spectral Embedding.
 
 Abstract: With spectral embedding method, we will give sharp bound on return probabilities of random walk on graphs. As a by-product, bounds on the spectrum of transition matrices on graphs will be obtained.
