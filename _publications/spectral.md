@@ -1,10 +1,10 @@
 ---
 title: "Sharp Bounds on Eigenvalues via Spectral Embedding Based on Signless Laplacians"
-collection: preprint
+collection: publications
 permalink: /publication/spectral
-excerpt: 'Click [here](http://zf-wei.github.io/files/Spectral.pdf) to download.'
-date: 2021-11-11
-venue: 'Preprint with arXiv identifier: 2111.08777.'
+excerpt: 'Here is the [Journal Page](https://doi.org/10.1016/j.jfa.2022.109799).'
+date: 2022-12-15
+venue: 'Journal of Functional Analysis, 284(5), 2023, Article 109799.'
 ---
 
-To appear in the Journal of Functional Analysis. Click [here](http://zf-wei.github.io/files/Spectral.pdf) to download. The arXiv page is [here](https://arxiv.org/abs/2111.08777).
+Click [here](http://zf-wei.github.io/files/Spectral.pdf) to download. The arXiv page is [here](https://arxiv.org/abs/2111.08777).
