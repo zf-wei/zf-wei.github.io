@@ -8,7 +8,7 @@ date: 2022-09-11
 location: "University of Wisconsin - Madison"
 ---
 
-This is the seminar page: [20th Northeast Probability Seminar](https://sites.google.com/view/gspc2022/). 
+This is the seminar page: [Graduate Student Probability Conference 2022](https://sites.google.com/view/gspc2022/). 
 
 Title: Bound Return Probabilities via Spectral Embedding.
 
