@@ -1,0 +1,26 @@
+---
+title: "Bound Return Probabilities via Spectral Embedding"
+collection: talks
+type: "Talk"
+permalink: /talks/BIT22
+venue: "Invited by Prof. Pei-Sen Li"
+date: 2022-12-01
+location: "Beijing Instiute of Technology (Zoom Talk)"
+---
+
+Invited by Prof. Pei-Sen Li, I gave a talk at BIT on December 1, 2022.
+
+Title: Bound Return Probabilities via Spectral Embedding.
+
+Abstract: 
+For simple random walk on a cycle graph with odd number of vertices, ergodic theorems of Markov chains tell us that return probabilities satisfy
+    $$\lim_{t\to\infty}p_t(x,x)=\tfrac{1}{n},$$
+    where $n$ is the number of vertices of the cycle and $p_t(x,x)$ is the probability that simple random walk started at a vertex $x$ of the cycle is back at $x$ on step $t\geqslant 1$.
+
+
+In this talk, we will consider general regular graphs and give a sharp bound on convergence rate: the return probabilities of simple random walk on a regular non-bipartite graph $G$ (with $n$ vertices) satisfies
+    $$\abs[\big]{p_t(x,x)-\tfrac{1}{n}}\leqslant \tfrac{18}{\sqrt{t}}$$
+    for $t\geqslant 1$ and each vertex $x$ of $G$.
+
+
+Our main tool is the method of ``spectral embedding". Bounds on eigenvalues of random walk transition matrices will also be given as a byproduct. We will try making this talk friendly to a wider audience in Mathematics: only a background of linear algebra and calculus is assumed.
