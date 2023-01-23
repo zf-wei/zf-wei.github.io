@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 ---
 
-## Email Address
-zfwei\[at\]iu.edu
+## Email Addresses
+Institutional: zfwei\[at\]iu.edu
 
-
+Personal: zfwei11\[at\]gmail.com
