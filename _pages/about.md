@@ -14,4 +14,4 @@ Before coming to Bloomington, I got my MSc degree in 2018 at [Beijing Normal Uni
 
 My name is written as **魏志峰** in Chinese. In my publications, my name is usually written as **Zhi-Feng Wei**, following suggestions by Prof. Mu-Fa Chen. Click [here](http://math0.bnu.edu.cn/~chenmf/files/SciPopul/19Name-of-Chinese.pdf) to read an article written by Prof. Chen for explanations.
 
-In my spare time, I enjoy reading.<!--[Dream of the Red Chamber](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber) is my favorite novel.--> I also like playing jigsaw puzzles: some of my works could be found [here](https://zf-wei.github.io/posts/2021/12/puzzles/).  
+In my spare time, I enjoy reading. [The Story of the Stone (**红楼梦**)](https://en.wikipedia.org/wiki/Dream_of_the_Red_Chamber) is my favorite novel. I also like playing jigsaw puzzles: some of my works could be found [here](https://zf-wei.github.io/posts/2021/12/puzzles/).  
