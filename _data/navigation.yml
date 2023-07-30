@@ -13,7 +13,7 @@ main:
     url: /markdown/
     
   - title: "Blog"
-    url: /year-archive/ 
+    url: /blog/ 
 
   #- title: "Collections"
   #  url: /portfolio/
