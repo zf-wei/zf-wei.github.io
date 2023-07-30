@@ -10,7 +10,7 @@ Random Walk on Graphs, Spectral Graph Theory, Network Science.
 
 ***
 
-# <u>Preprints & Publications<u>
+# <u>Publications<u>
 {% include base_path %}
 
 {% for post in site.publications reversed %}
@@ -18,7 +18,7 @@ Random Walk on Graphs, Spectral Graph Theory, Network Science.
 {% endfor %}
 
 ***
-# <u>Invited Presentations</u>
+# <u>Invited Talks</u>
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
