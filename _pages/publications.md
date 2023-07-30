@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Research Interest
-I am interested in Probability Theory and Graph Theory.
+Random Walk on Graphs, Spectral Graph Theory, Network Science.
 
 ***
 
