@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Research"
-    url: /research/
+    url: /publications/
 
   - title: "Teaching"
     url: /teaching/
@@ -10,10 +10,10 @@ main:
     url: /cv/
     
   - title: "Contact"
-    url: /contact/
+    url: /markdown/
     
   - title: "Blog"
-    url: /blog/ 
+    url: /year-archive/ 
 
   #- title: "Collections"
   #  url: /portfolio/
