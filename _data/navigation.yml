@@ -10,7 +10,7 @@ main:
     url: /cv/
     
   - title: "Contact"
-    url: /markdown/
+    url: /contact/
     
   - title: "Blog"
     url: /blog/ 
