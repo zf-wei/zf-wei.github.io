@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# <u>Research Interest<u>
+# <u>Interest<u>
 Random Walk on Graphs, Spectral Graph Theory, Network Science.
 
 ***
