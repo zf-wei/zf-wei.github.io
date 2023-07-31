@@ -7,13 +7,13 @@ redirect_from:
 ---
 
 
-## Emails
+## <u>Emails<u>
 Institutional: zfwei\[at\]iu.edu
 
 Personal: zfwei11\[at\]gmail.com
 
 
-## Mailing Address
+## <u>Mailing Address<u>
 [Department of Mathematics](https://math.indiana.edu/)
 
 [Indiana University](https://www.indiana.edu/)
