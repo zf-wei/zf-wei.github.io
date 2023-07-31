@@ -20,6 +20,6 @@ Personal: zfwei11\[at\]gmail.com
 
 831 East 3rd St.
 
-[Bloomington, IN 47405-7106](https://www.bloomington.in.gov/)
+[Bloomington](https://www.bloomington.in.gov/), IN 47405-7106
 
 USA
