@@ -14,6 +14,12 @@ Personal: zfwei11\[at\]gmail.com
 
 
 ## Mailing Address
-831 E Third Street,
-Bloomington,
-IN 47405, USA.
+[Department of Mathematics](https://math.indiana.edu/)
+
+[Indiana University](https://www.indiana.edu/)
+
+831 East 3rd St.
+
+[Bloomington, IN 47405-7106](https://www.bloomington.in.gov/)
+
+USA
