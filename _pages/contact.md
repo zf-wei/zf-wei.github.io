@@ -4,8 +4,8 @@ title: "Contact"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
 ---
+
 
 ## Emails
 Institutional: zfwei\[at\]iu.edu
