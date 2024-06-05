@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am **Zhifeng Wei**, a PhD Candidate in the [Mathematics Department at Indiana University](https://math.indiana.edu/). My advisor is [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/).
+Greetings! I am **Zhifeng Wei**. I will be a distinguished postdoctoral fellow at Pacific Northwest National Laboratory (PNNL) starting from August 2024.
 
-Before coming to Bloomington, I got my MSc degree in 2018 at [Beijing Normal University](http://math.bnu.edu.cn/) under the supervision of [Prof. Mu-Fa Chen](http://math0.bnu.edu.cn/~chenmf/main_eng.htm). I went to [Lanzhou University](https://en.lzu.edu.cn/) for my [college](http://chc.lzu.edu.cn/), advised by [Prof. Heping Zhang](http://mathteacher.lzu.edu.cn/system/teacherprofileqtenglish/content.jsp?id=154). 
+Before joining PNNL, I got my PhD in the [Mathematics Department at Indiana University](https://math.indiana.edu/) in June 2024. My doctoral advisor is [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/). I got my MSc degree in 2018 at [Beijing Normal University](http://math.bnu.edu.cn/) under the supervision of [Prof. Mu-Fa Chen](http://math0.bnu.edu.cn/~chenmf/main_eng.htm). For my [college](http://chc.lzu.edu.cn/), I went to [Lanzhou University](https://en.lzu.edu.cn/) for , advised by [Prof. Heping Zhang](http://mathteacher.lzu.edu.cn/system/teacherprofileqtenglish/content.jsp?id=154). 
 
 My name is written as **魏志峰** in Chinese. In my publications, my name is usually written as **Zhi-Feng Wei**, following suggestions by Prof. Mu-Fa Chen. Click [here](http://math0.bnu.edu.cn/~chenmf/files/SciPopul/19Name-of-Chinese.pdf) to read an article written by Prof. Chen for explanations.
 
