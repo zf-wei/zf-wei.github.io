@@ -7,7 +7,7 @@ date: 2024-05-15
 venue: 'arXiv:2405.00636'
 ---
 
-This work is joint with [Pablo Moriano](https://pmoriano.com/) and [Ramakrishnan Kannan](https://ramkikannan.com). The arXiv page is [here](https://arxiv.org/abs/2405.00636).
+This work is joint with [Pablo Moriano](https://pmoriano.com/) and [Ramakrishnan Kannan](https://ramkikannan.com) during my internship at Oak Ridge National Laboratory. The arXiv page is [here](https://arxiv.org/abs/2405.00636).
 
 ## Abstract
 
