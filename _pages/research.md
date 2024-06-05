@@ -19,7 +19,7 @@ Random Walk on Graphs, Spectral Graph Theory, Network Science.
 {% endfor %}
 
 ***
-# <u>Invited Talks</u>
+# <u>Presentations</u>
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
