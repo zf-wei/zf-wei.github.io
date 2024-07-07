@@ -2,7 +2,7 @@
 title: "Robustness of graph embedding methods for community detection"
 collection: publications
 permalink: /publication/robustness
-excerpt: 'The arXiv page: [here](https://arxiv.org/abs/2405.00636).'
+excerpt: 'Joint work with Pablo Moriano and Ramakrishnan Kanan. The arXiv page: [here](https://arxiv.org/abs/2405.00636).'
 date: 2024-05-15
 venue: 'arXiv:2405.00636'
 ---
