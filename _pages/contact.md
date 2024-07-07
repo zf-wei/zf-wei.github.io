@@ -10,5 +10,5 @@ redirect_from:
 ## <u>Emails<u>
 Institutional: zfwei\[at\]iu.edu
 
-Personal: zfwei11\[at\]gmail.com
+Personal: zfwei93\[at\]outlook.com
 
