@@ -12,7 +12,7 @@ Greetings! I am **Zhifeng Wei**. Starting from August 2024, I am a postdoctoral 
 
 Before joining PNNL, I got my PhD in the [Mathematics Department at Indiana University](https://math.indiana.edu/) in June 2024. My doctoral advisor is [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/). I got my MSc degree in June 2018 at [Beijing Normal University](http://math.bnu.edu.cn/) under the guidance of [Prof. Mu-Fa Chen](http://math0.bnu.edu.cn/~chenmf/main_eng.htm). From September 2011 to June 2015, I went to [Cuiying Honors College](http://chc.lzu.edu.cn/), [Lanzhou University](https://en.lzu.edu.cn/), advised by [Prof. Heping Zhang](http://mathteacher.lzu.edu.cn/system/teacherprofileqtenglish/content.jsp?id=154).
 
-My Erdős number is 3.
+My Erdős number is 3, by this route: Wei $\longleftrightarrow$ Heping Zhang $\longleftrightarrow$ Peter Che Bor Lam $\longleftrightarrow$ Paul Erdős.
 
 From May 2023 to March 2024, I interned at Oak Ridge National Laboratory (ORNL), under the supervision of [Dr. Pablo Moriano](https://pmoriano.com/)and [Dr. Ramakrishnan Kannan](https://ramkikannan.com/). My internship was supported by the [GRO Program](https://education.ornl.gov/gro/) and [NSF-MSGI program](https://orise.orau.gov/nsf-msgi/).
 
