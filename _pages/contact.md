@@ -7,8 +7,7 @@ redirect_from:
 ---
 
 
-## <u>Emails<u>
-Institutional: zfwei\[at\]iu.edu
+## <u>Email<u>
 
-Personal: zfwei93\[at\]outlook.com
+Personal: zf[put my last name here and delete the brackets]93\[at\]outlook.com
 
