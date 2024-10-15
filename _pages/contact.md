@@ -9,5 +9,5 @@ redirect_from:
 
 ## <u>Email<u>
 
-Personal: zf[put my last name here and delete the brackets]93\[at\]outlook.com
+zf[put my last name here and delete the brackets]93\[at\]outlook.com
 
