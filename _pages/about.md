@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! This is **Zhifeng Wei**. Starting from August 2024, I am a postdoctoral fellow at Pacific Northwest National Laboratory (PNNL).
+Greetings! This is **Zhifeng Wei**. Starting from August 2024, I am a postdoctoral fellow at Pacific Northwest National Laboratory (PNNL). You may find my CV through this  [here](http://zf-wei.github.io/files/cv.pdf).
 
 Before joining PNNL, I received my PhD in the [Mathematics Department at Indiana University](https://math.indiana.edu/) in June 2024. My doctoral advisor is [Prof. Russell Lyons](https://rdlyons.pages.iu.edu/). I got my MSc degree in June 2018 at [Beijing Normal University](http://math.bnu.edu.cn/) under the guidance of [Prof. Mu-Fa Chen](http://math0.bnu.edu.cn/~chenmf/main_eng.htm). From September 2011 to June 2015, I went to [Cuiying Honors College](http://chc.lzu.edu.cn/), [Lanzhou University](https://en.lzu.edu.cn/), advised by [Prof. Heping Zhang](http://mathteacher.lzu.edu.cn/system/teacherprofileqtenglish/content.jsp?id=154).
 
