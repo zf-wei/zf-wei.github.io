@@ -15,7 +15,7 @@ Before joining PNNL, I received my PhD in the [Mathematics Department at Indiana
 
 My Erdős number is 3, through the following collaboration path: Wei $\longleftrightarrow$ Heping Zhang $\longleftrightarrow$ Peter Che Bor Lam $\longleftrightarrow$ Paul Erdős.
 
-From May 2023 to March 2024, I interned at Oak Ridge, supervised by [Dr. Pablo Moriano](https://pmoriano.com/) and [Dr. Ramakrishnan Kannan](https://ramkikannan.com/) from Oak Ridge National Laboratory. My internship was supported by the [GRO Program](https://education.ornl.gov/gro/) and  the [NSF-MSGI program](https://orise.orau.gov/nsf-msgi/).
+From May 2023 to March 2024, I interned at Oak Ridge, supervised by [Dr. Pablo Moriano](https://pmoriano.com/) and [Dr. Ramakrishnan Kannan](https://ramkikannan.com/) from Oak Ridge National Laboratory. My internship was supported by the [GRO Program](https://education.ornl.gov/gro/) and  the [NSF-MSGI program](https://www.nsf.gov/funding/opportunities/nsf-mathematical-sciences-graduate-internship).
 
 My name is **魏志峰** in Chinese. In my publications, my name is usually written as **Zhi-Feng Wei**, following suggestions by Prof. Mu-Fa Chen. Click [here](http://math0.bnu.edu.cn/~chenmf/files/SciPopul/19Name-of-Chinese.pdf) to read an article written by Prof. Chen for explanations.
 
