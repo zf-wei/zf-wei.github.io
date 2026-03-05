@@ -9,5 +9,5 @@ redirect_from:
 
 ## <u>Email<u>
 
-zhifeng[put my last name here and delete the brackets]\[at\]outlook.com
+zf[put my last name here and delete the brackets]\[at\]pnnl.gov
 
